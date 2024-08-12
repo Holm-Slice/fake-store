@@ -1,0 +1,15 @@
+.product-card {
+  border: 3px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 31%; */
+  text-align: center;
+  color: rbg(50, 50, 50);
+}
+
+.product-card img {
+  max-width: 90%;
+}
