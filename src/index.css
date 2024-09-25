@@ -1,1 +1,15 @@
 /* cmd a to select all lines */
+@font-face {
+  font-family: "custom1";
+  src: url("public/fonts/Lithops-Regular.ttf");
+}
+
+@font-face {
+  font-family: "custom2";
+  src: url("public/fonts/Relieve.ttf");
+}
+
+@font-face {
+  font-family: "custom3";
+  src: url("public/fonts/Aktura-Regular.otf");
+}

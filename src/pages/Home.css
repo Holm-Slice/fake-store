@@ -1,0 +1,24 @@
+.filter-menu {
+  display: flex;
+  align-items: center;
+  /*  */
+  justify-content: center;
+  /* ^^ deals with arangment horizontally */
+  height: 60px;
+  border: 2px solid blue;
+}
+
+.filter-buttons {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid red;
+  width: 35%;
+  margin-left: 5%;
+}
+
+.filter-buttons p {
+  color: white;
+  background-color: rgb(50, 50, 50);
+  padding: 5px;
+  border-radius: 12px;
+}
